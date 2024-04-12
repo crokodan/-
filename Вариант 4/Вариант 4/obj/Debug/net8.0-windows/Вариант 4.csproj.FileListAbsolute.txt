@@ -1,0 +1,6 @@
+E:\Программирование\Лабораторные работы\Вариант 4\Вариант 4\obj\Debug\net8.0-windows\Вариант_4.Form1.resources
+E:\Программирование\Лабораторные работы\Вариант 4\Вариант 4\obj\Debug\net8.0-windows\Вариант 4.csproj.GenerateResource.cache
+E:\Программирование\Лабораторные работы\Вариант 4\Вариант 4\obj\Debug\net8.0-windows\Вариант 4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Программирование\Лабораторные работы\Вариант 4\Вариант 4\obj\Debug\net8.0-windows\Вариант 4.AssemblyInfoInputs.cache
+E:\Программирование\Лабораторные работы\Вариант 4\Вариант 4\obj\Debug\net8.0-windows\Вариант 4.AssemblyInfo.cs
+E:\Программирование\Лабораторные работы\Вариант 4\Вариант 4\obj\Debug\net8.0-windows\Вариант 4.csproj.CoreCompileInputs.cache
